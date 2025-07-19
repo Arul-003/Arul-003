@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Arul-003
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning Front-End Development...
-- 💞️ I’m looking to collaborate on Front-End Developer...
-- 📫 How to reach me +919345619844...
+🚀 Aspiring Java Full Stack Developer | Passionate about building scalable web applications
+💻 Skilled in Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+📚 Currently learning React.js & RESTful APIs
+🌱 Exploring backend optimization and clean architecture
+🔧 Love turning ideas into reality through code
+📍 Open to collaboration & learning opportunities
+
 
 
 <!---
